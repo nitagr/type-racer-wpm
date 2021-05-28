@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className="footer-container">
         <a 
-          href="https://github.com/nitagr"
+          href="https://github.com/nitagr/type-racer-wpm"
           className="footer-link"
           target="_blank"
           rel="noreferrer"> 
